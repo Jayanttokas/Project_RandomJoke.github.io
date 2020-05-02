@@ -1,0 +1,19 @@
+.joke{
+    margin-top:10%;
+    font-family: 'Aladin', cursive;
+}
+
+*{
+  color:white;
+}
+
+.joke .col{
+  font-size: 40px;
+}
+
+.heading{
+  font-family: 'Righteous', cursive;
+  text-decoration: underline;
+  text-decoration-style: double;
+  font-size: 60px;
+}
